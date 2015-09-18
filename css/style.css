@@ -1,0 +1,100 @@
+body {
+	background-color: #D8D8D8;
+	font-family: arial;
+	}  
+.project {
+	background-color: white;
+	width: 500px;
+	margin: 20px auto;
+}
+h1 {
+	color: #D8D8D8;
+	font-size: 30px;
+	font-family: arial;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	font-weight: bold;
+
+}
+p {
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	font-size: 15px;
+
+
+}
+h2{
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+.block {
+	width: 40px;
+	height: 40px;
+	background-color: #D8D8D8;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	color: grey; 
+	line-height: 40px;     
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 30px;
+
+
+	float: left;
+}
+
+.orange {
+	width: 40px;
+	height: 40px;
+	background-color: #FF8300;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	color: grey; 
+	line-height: 40px;     
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+
+
+	float: left;
+}
+
+div{
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+}
+p{
+	clear: both;
+}
+
+.font {
+	font-family: monospace;
+}
+
+img {
+	width: 100%;
+}
+
+a{
+	width: 200px;
+	height: 40px;
+	background-color: #FF8300;
+	padding-bottom: 20px;
+	text-align: center;
+	padding-top: 30px;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+
+
+	display: block;
+
+}
+    
+
